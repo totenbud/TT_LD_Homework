@@ -9,4 +9,4 @@ It uses [PyQt5](https://pypi.org/project/PyQt5/) as an interface.
 3. Run `python InvisibilityChecker.py`
 
 ##### Executable instructions #####
-If you would prefer to not install PyQt5, you can instead directly launch the InvisibilityChecker.exe file included here. Note that it must be contained in the same directory as the 'images' folder.
+If you would prefer to not install PyQt5, you can instead download and launch the InvisibilityChecker.exe file from my [Google Drive here.](https://drive.google.com/file/d/1eyafBG5gdVGrDunVbwLHIQfuYHluKFrN/view?usp=sharing) Note that it must be contained in the same directory as the 'images' folder.
