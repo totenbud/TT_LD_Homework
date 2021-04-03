@@ -1,0 +1,2 @@
+launchdarkly-server-sdk==7.1.0
+PyQt5
